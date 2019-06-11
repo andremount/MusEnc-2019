@@ -639,8 +639,8 @@
                                   <app>
                                     <rdg source="#Longman">
                                       <beam xml:id="beam-0000001271519886a">
-                                          <note xml:id="note-0000000543460109a"  dur="16" oct="5" pname="e" color="#000000" stem.dir="down" accid.ges="f" />
-                                          <note xml:id="note-0000002029207468a"  dur="16" oct="4" pname="b" color="#000000" stem.dir="down" accid.ges="f" />
+                                          <note xml:id="note-0000000543460109a"  dur="16" oct="5" pname="e" color="#000000" stem.dir="up" accid.ges="f" />
+                                          <note xml:id="note-0000002029207468a"  dur="16" oct="4" pname="b" color="#000000" stem.dir="up" accid.ges="f" />
                                       </beam>
                                     </rdg>
                                     <rdg source="#Coulon">
@@ -650,7 +650,6 @@
                                       </beam>
                                   </rdg>
                                 </app>
-
                                     <note xml:id="note-0000000576416172" dur="8" oct="5" pname="d" color="#000000" grace="unacc" stem.dir="up" stem.mod="1slash" />
                                     <beam xml:id="beam-0000001335173826">
                                         <note xml:id="note-0000000254169947"  dur="8" oct="5" pname="c" color="#000000" stem.dir="up" />
