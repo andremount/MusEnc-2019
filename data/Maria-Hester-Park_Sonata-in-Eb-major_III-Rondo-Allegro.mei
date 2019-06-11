@@ -26,7 +26,7 @@
       <mdiv xml:id="mdiv-0000002109640211">
         <score xml:id="score-0000000325964059">
           <scoreDef xml:id="scoredef-0000000815635345">
-            <staffGrp xml:id="staffgrp-0000001670511292">
+            <staffGrp xml:id="staffgrp-0000001670511292" barthru="true">
               <staffGrp xml:id="staffgrp-0000001458753902" symbol="brace">
                 <staffGrp xml:id="staffgrp-0000001824520700" symbol="brace">
                   <!-- <label xml:id="label-0000000854404475">P1</label> -->
