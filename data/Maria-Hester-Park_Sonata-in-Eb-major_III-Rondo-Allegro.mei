@@ -703,14 +703,14 @@
                 <layer xml:id="layer-0000000599451971" n="2">
                   <space xml:id="space-0000002088068757" dur="4"/>
                   <beam xml:id="beam-0000001640895825">
-                    <tuplet xml:id="tuplet-0000001085209424" num="3" numbase="2" num.place="below" bracket.place="below" bracket.visible="false">
+                    <tuplet xml:id="tuplet-0000001085209424" num="3" numbase="2" num.visible="false" bracket.place="below" bracket.visible="false">
                       <note xml:id="note-0000001446060092" dur="16" oct="4" pname="e" color="#000000" stem.dir="down" accid.ges="f"/>
                       <note xml:id="note-0000000001023294" dur="16" oct="4" pname="d" color="#000000" stem.dir="down"/>
                       <note xml:id="note-0000001578537890" dur="16" oct="4" pname="e" color="#000000" stem.dir="down" accid.ges="f"/>
                     </tuplet>
                   </beam>
                   <beam xml:id="beam-0000001548009906">
-                    <tuplet xml:id="tuplet-0000000108562618" num="3" numbase="2" num.place="below" bracket.place="below" bracket.visible="false">
+                    <tuplet xml:id="tuplet-0000000108562618" num="3" numbase="2" num.visible="false" bracket.place="below" bracket.visible="false">
                       <note xml:id="note-0000001973222342" dur="16" oct="4" pname="f" color="#000000" stem.dir="down"/>
                       <note xml:id="note-0000000943022631" dur="16" oct="4" pname="e" color="#000000" stem.dir="down" accid.ges="f"/>
                       <note xml:id="note-0000001304199160" dur="16" oct="4" pname="d" color="#000000" stem.dir="down"/>
